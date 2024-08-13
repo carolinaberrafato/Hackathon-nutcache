@@ -14,3 +14,5 @@ We added a layer of AI to the most famous Nutcache's feature, time tracking. The
 - Ana Carla Guerra
 - Luiza Diniz
 - Maria Carolina Berrafato
+
+_Note: Instructions on how to run the project are in the notebook!_
